@@ -1,6 +1,6 @@
 // ***inizio***
 
-const openMenu = document.querySelector(".header-rigth > a");
+const openMenu = document.querySelector(".header-right > a");
 const closeMenu = document.querySelector(".close");
 
 // ***creo le funzioni
@@ -28,6 +28,4 @@ closeMenu.addEventListener("click", function(){
 // function closeMenu(click) {
 //     document.querySelector(".hamburger-menu").classList.remove("active");
 // }
-
-
 
